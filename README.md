@@ -56,7 +56,7 @@ and check your browser for django project working
 See using this command ```localhost:8000 ```port
 <br>
 # You can check it out my blog for setuping django on windows machine on Medium 
-<br>
 <a href="https://medium.com/@krishnakakade77" target="_blank"><b>krishnakakade</b></a>
+<br>
 <b>View of my project polls app</b>
 
