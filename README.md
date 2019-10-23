@@ -6,7 +6,7 @@
 # Following are steps for how i setup project and all things you need to know if you ae begginer to Django 
 And this project go according to the django documentation and here is no erros so you can use for yourself and i used basic bootstrap overhere and i create gif type project view for that i used <b>ScreentoGif</b> convertor overhere you can see that
 
-# View of Project Of My Project in Gif form
+# View of Project in Gif(Graphics Interchange Format) form
 <br>
 <img src="https://github.com/krishnakakade1999/pollswebapp/blob/master/Gifviewproject/demokrishna.gif" alt="one">
 
