@@ -1,13 +1,16 @@
-# pollswebapp
-this is polls webapp created in django using official django documentation
+# Jokerpollwebapp
+# this is a Jokerpollwebapp created in django 
 
 <br>
-<b> I prefer Django Official documentation and some youtube videos as a django begginer to do this basics project Django docs Polls app</b>
 
 # Following are steps for how i setup project and all things you need to know if you ae begginer to Django 
-# And this project go according to the django documentation and here is no erros so you can use for yourself
+And this project go according to the django documentation and here is no erros so you can use for yourself and i used basic bootstrap overhere and i create gif type project view for that i used <b>ScreentoGif</b> convertor overhere you can see that
 
-Steps
+# View of Project Of My Project in Gif form
+<br>
+<img src="https://github.com/krishnakakade1999/pollswebapp/blob/master/Gifviewproject/demokrishna.gif" alt="one">
+
+# Steps for steuping djago project also you can check out my blog on Medium end of this readme  link is Give
 
 Step 1 First make your own Directory in windows Command prompt or in Powershell using command ```mkdir mydjango``` for example -mydjango i used here
 
@@ -53,10 +56,14 @@ Command using ```python manage.py migrate```
 
 and check your browser for django project working
 
-See using this command ```localhost:8000 ```port
+See using this command ```localhost:8000 ```port and for admin pannel or adding mannualy questions in database use this
+```localhost:8000/admin``` and for admin access you have to create <b>superuser</b>
 <br>
 # You can check it out my blog for setuping django on windows machine on Medium 
 <a href="https://medium.com/@krishnakakade77" target="_blank"><b>krishnakakade</b></a>
 <br>
-<b>View of my project polls app</b>
 
+# REFERENCES
+<b>Official Django Documentation And Youtube Tutorials For Beginners On django Ex traversymedia and Freecodecamp</b>
+
+# Thank you 
