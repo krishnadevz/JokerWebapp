@@ -53,6 +53,8 @@ Command :- ```python manage.py createsuperuser```
 and then migrate that particular file using
 
 Command using ```python manage.py migrate```
+form creating pages for home page ```127.0.0.1:8000```
+we have to create new app  in django using ```python manage.py startapp pages```
 
 and check your browser for django project working
 
