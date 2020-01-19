@@ -67,5 +67,8 @@ See using this command ```localhost:8000 ```port and for admin pannel or adding 
 
 # REFERENCES
 <b>Official Django Documentation And Youtube Tutorials For Beginners On django Ex traversymedia and Freecodecamp</b>
+# Author
+* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
+
 
 # Thank you 
